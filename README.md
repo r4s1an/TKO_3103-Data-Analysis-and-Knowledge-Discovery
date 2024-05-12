@@ -1,4 +1,4 @@
-"# Student Projects in TKO_3103-Data-Analysis-and-Knowledge-Discovery" 
+Student Projects in TKO_3103-Data-Analysis-and-Knowledge-Discovery
 
 Content
 
